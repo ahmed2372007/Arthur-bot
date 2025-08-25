@@ -1,0 +1,28 @@
+
+
+> **اتبع الخطوات التالية بالترتيب:**
+
+```bash
+termux-setup-storage
+```
+
+```bash
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick
+```
+
+```bash
+cd /sdcard/bot
+```
+
+```bash
+npm start
+```
+
+```bash
+code
+```
+
+```bash
+رقمك بدون (+) 
+```
+---
